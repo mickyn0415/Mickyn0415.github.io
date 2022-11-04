@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css2?family=Abyssinica+SIL&family=Poor+Story&display=swap" rel="stylesheet">
+  <style>
+      h1{text-shadow: 5px 3px threeddarkshadow;}
+     h3{text-shadow: 3px 3px lightskyblue;}
+    </style>
+  <h1> Time Will Tell</h1>
+</head>
+
+<body>
+  <div>
+  <img src="Stopwatch.png" class="img">
+  </div>
+  <div>
+<h2> Overview
+  <p class="overview">
+  Tim was just another average student in Technical Arts High school. He always played games and had a small group of friends. This year though, he wanted to try something new and go all out. He was planning to impress everyone in the school for his senior year that nobody in his school would forget. Soon enough, Tim found out it was quite a struggle to complete such task.
+  </p>
+  <p class="overview"> One sudden day, a mysterious voice appeared and promised he would help as long as Tim was smart with his decisions. He can minipulate time and revert time whenever he wanted. The catch is he only has a limited amount of retrys. 
+  <p> 
+  <img src="man-in-chair.jpg" class="img2"> 
+  </p>
+  <span class="overview" id="question">
+    <p>How would Tim figure all of this mess out?</p>
+    <p>What other problems does Tim face?</p>
+    <p>Does he end successful?</p>
+  </span>
+  </p>
+  </div>
+</h2>
+  
+<h3>
+  <p>One wrong move, and it all... comes... down...</p>
+</h3>
+
+ 
+</body>
+
+</html>
