@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title class="owner-name">#</title>
+    <title class="micky">#</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
@@ -47,7 +47,7 @@
             <p>Text about the project</p>
             <p>More text about the project.</p>
             <a href="https://replit.com/@MickyNi/project-1#index.html">Link about the project</a><br>
-            <a href="<git@github.com:jonathanl0610/kidnapping-project-sep10B.git a><br> 
+            <a href="<git@github.com:jonathanl0610/kidnapping-project-sep10B.git a>cyoa project<br> 
             
             <!--EXAMPLE OF PREVIEW LINK-->
             <!--<a href="http://yourUserName.github.io/yourRepoName">Preview</a><br>-->
