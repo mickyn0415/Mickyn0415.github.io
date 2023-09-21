@@ -18,6 +18,7 @@ a {
 
 #logo, .project-img {
     max-height: 300px;
+    border-radius:50wpx;
 }
 
 #fork img{
@@ -54,8 +55,7 @@ a {
 }
 
 .bg-3 {
-    background-color: #teal; /* Black */
-    color: #ffffff;
+    background-color:black;
 }
 
 .bg-4 {
@@ -82,3 +82,5 @@ a {
     color: #2e72a1 !important;
 }
 img{height:10px;}
+
+.body {background-color:gray;}
