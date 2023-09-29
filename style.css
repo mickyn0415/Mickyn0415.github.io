@@ -41,7 +41,7 @@ a {
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
+    background-color: orange; /* Blue */
     color: #ffffff;
 }
 
@@ -59,7 +59,7 @@ a {
 }
 
 .bg-4 {
-    background-color: #343a40; /* Dark Gray */
+    background-color: lightblue; /* Dark Gray */
     color: #fff;
 }
 
